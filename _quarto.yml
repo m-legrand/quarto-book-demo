@@ -17,3 +17,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+  docx: default
+  pdf: default
+  epub: default
