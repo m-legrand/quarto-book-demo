@@ -18,5 +18,7 @@ format:
   html:
     theme: cosmo
   docx: default
-  pdf: default
-  epub: default
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image: cover.png
